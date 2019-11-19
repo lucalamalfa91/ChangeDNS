@@ -1,0 +1,10 @@
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\bin\Debug\ChangePulseDNS.exe.config
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\bin\Debug\ChangePulseDNS.exe.manifest
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\bin\Debug\ChangePulseDNS.application
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\bin\Debug\ChangePulseDNS.exe
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\bin\Debug\ChangePulseDNS.pdb
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\obj\Debug\ChangePulseDNS.csproj.CoreCompileInputs.cache
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\obj\Debug\ChangePulseDNS.exe.manifest
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\obj\Debug\ChangePulseDNS.application
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\obj\Debug\ChangePulseDNS.exe
+C:\Users\llamalfa\OneDrive - Alliance Medical Diagnostic Srl\Codice\ChangePulseDNS\ChangePulseDNS\obj\Debug\ChangePulseDNS.pdb

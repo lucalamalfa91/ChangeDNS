@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangePulseDNS", "ChangePulseDNS\ChangePulseDNS.csproj", "{82CC8BFF-A3FA-4416-9256-DDE8A2FECEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CC8BFF-A3FA-4416-9256-DDE8A2FECEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CC8BFF-A3FA-4416-9256-DDE8A2FECEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CC8BFF-A3FA-4416-9256-DDE8A2FECEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CC8BFF-A3FA-4416-9256-DDE8A2FECEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D927A9-2E57-4B1C-AED4-6132A5F3815A}
+	EndGlobalSection
+EndGlobal
